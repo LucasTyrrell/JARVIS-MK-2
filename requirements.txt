@@ -1,0 +1,15 @@
+langchain
+wikipedia
+langchain-community
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+utils
+pygame
+silero-vad
+elevenlabs
+soundfile
+pyaudio
+numpy
+anthropic
